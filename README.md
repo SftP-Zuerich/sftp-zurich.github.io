@@ -1,1 +1,1 @@
-# sftp-canada.github.io
+# SftP-Zurich.github.io
